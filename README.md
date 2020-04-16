@@ -1,7 +1,7 @@
 # connect to atp using docker and python
 Datos 1 
 
-# Change this in the ora file
+# Change this in the sqlnet.ora file
 WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="/wallet")))
 SSL_SERVER_DN_MATCH=yes
 
